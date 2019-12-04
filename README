@@ -1,0 +1,4 @@
+we use a recursive memory to read the context for many hops during reading and thinking our model will erase the some memory
+
+our accuracy in dev set is 69.68
+
